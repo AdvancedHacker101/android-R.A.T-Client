@@ -1,5 +1,5 @@
 # Contribution
-**Thank you for considering contribution to the C\# R.A.T Server Project!**  
+**Thank you for considering contribution to the Android R.A.T Client Project!**  
 ## How to contribute?
 It's very simple!  
 1. Fork the project  
@@ -14,9 +14,9 @@ You can also do this on the *Issues* section, and i will label it as *enhancemen
 This way you can suggest new features, or change an older one without coding.  
 I will try to respond within 24 hours!  
 ## How to run / compile
-I use Visual Studio 2017 Community Edition.  
-The program is written in c\# and built with .NET Framework 4.5  
-Any additional requirements can be found under TutServer/bin/debug  
+I use Android Studio 2.2.3  
+The program is written in java  
+No additional requirements, the program is only using android APIs  
 ## How to ask questions?
 You can also use the *Issues* section on GitHub, i will assign a label to it, so it's different from bugs.  
 I will try to respond within 24 hours!  
