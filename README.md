@@ -1,6 +1,6 @@
 # Android R.A.T Client
 This is the android version of the [C# R.A.T Client](https://github.com/AdvancedHacker101/C-Sharp-R.A.T-Client) written in java.  
-The client connects to the [C# R.A.T Server](https://github.com/AdvancedHacker101/C-Sharp-R.A.T-Server)  using a plugin.  
+The client connects to the [C# R.A.T Server](https://github.com/AdvancedHacker101/C-Sharp-R.A.T-Server)  using the [C# Android R.A.T Server](https://github.com/AdvancedHacker101/android-c-sharp-rat-server) plugin.  
 The client is capable of:  
 - Listeninng to microphone
 - Streaming camera (back and front)
